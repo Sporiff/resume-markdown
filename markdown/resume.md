@@ -1,100 +1,173 @@
-Johnny Coder
+Ciarán Ainsworth
 ============
 
 ----
 
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
+>  I'm a passionate technologist with a penchant
+>  for writing clear, user-friendly technical documentation.
+>  I'm always on the lookout for opportunities to try new
+>  things, and spend as much time as I have available
+>  attending software conferences around Europe.
 
 ----
 
 Education
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+2015-2016
+:   **MA, English Literature**; Exeter University
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+    *Thesis title: ""The Way it Used to Be" Mono No Aware and the Tanuki in
+     Isao Takahata's Pom Poko"*
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
+2012-2015
+:   **BA, Film and Television Studies**; Prifysgol Aberystywth
 
-    *Minor: Awesomeology*
+    *Dissertation title: ""It's Not of This World": An Analysis of How the
+     Onryō Inflitrated the Western Horror Market"*
 
-Experience
+2014-2014
+:   **Semester Abroad**; Hong Kong Baptist University
+
+    *Minored in Computer Science (C), Japanese, and Cantonese*
+
+Work Experience
 ----------
 
-**Your Most Recent Work Experience:**
+**Technical Support Analyst: Oneserve**
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+* Responsible for manipulation of live SQL data, including non-self-service
+  uploads, data correction, and problem solving
 
-* First item
+* Responsible for responding to support tickets
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+* Responsible for identifying bugs, communicating bugs to customers,
+  arranging upgrades
 
-**That Other Job You Had**
+* Undertaking a major rewrite of the product's 700 page documentation
+  store
 
-Also with a short description.
+* Actively engaged in identifying new tooling for all areas of the company's
+  working, including communication, documentation, and project management
+
+**Applications Manager: Exeter College**
+
+* Responsible for testing/packaging applications and managing OS
+  deployments through SCCM and Microsoft Intune
+
+* Solely responsible for the management and running of all GNU/Linux
+  products, including the design of the college's SUSE architecture
+
+* Responsible for planning and overseeing migration of Windows 7
+  system to Windows 10
+
+* Respondible for the creation and curation of a self-service app
+  store for teachers and non-teaching staff
+
+* Responsible for vulnerability monitoring in Nessus as well as
+  responsive and pre-emptive patch management
+
+* Responsible for Sophos Antivirus deployment and threat analysis
+
+* Actively involved in the development of the college's JIRA platform
+
+* Responsible for all process documentation
+
+**Helpdesk Technician: Exeter College**
+
+* Responsible for undertaking hardware repairs on a range of Lenovo
+  devices
+
+* Responsible for responding to support tickets and answering phone
+  calls, as well as interfacing directly with customers
+
+* Responsible for process documentation
+
+* Responsible for responsive repair and setup of AV equipment and
+  SMART boards
 
 Technical Experience
 --------------------
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+Side Projects
+:   My passion for technology has led me to undertake a few projects
+    outside of work to give myself 
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
+    * I host my own [Mastodon instance](https://bakusocial.com) on
+      DigitalOcean using Docker and Nginx, with Amazon S3 as a media
+      store
+    * I also host a [Funkwhale server](https://tanukitunes.com) on
+      a similar setup
+    * My [website](https://rootkey.co.uk) is built using Hugo and CI
+      tools at [Netlify](https://netlify.com), and is hosted publically
+      on [GitHub](https://github.com/Sporiff/Rootkey-Website)
 
 Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
+:   As a big supporter of Free and Open Source software, I try to help
+    out with OSS projects wherever I can.
+
+    * I contribute translations to Japanese, English, and Dutch for
+      a few projects on [GitHub](https://github.com/Sporiff)
+    * I am the primary en-gb localiser for the [elementaryOS](https://elementary.io)
+      project
 
 Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
+:   **Microsoft SQL:** In my current job, I do a lot of work in SQL.
+    As the majority of our customers' data is stored in SQL databases,
+    it is often necessary for me to upload data to live systems, go
+    searching for issues across the schema, and correct these in a
+    timely manner. I have also been active in creating stored procedures
+    for use in our application
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
+:   **PowerShell:** During my time as an SCCM administrator, I made use
+    of PowerShell on a daily basis to automate complex tasks and find
+    creative solutions to problems posed by our early adoption of Windows
+    10 and Microsoft InTune. I wrote a script to automate the process of
+    [deploying Sophos AV](https://github.com/Sporiff/Sophos-Install),
+    which I uploaded to GitHub for other administrators to make use of.
+    
+:   **BASH:** I make heavy use of BASH in both my professional and personal
+    life. As a server administrator I operate mostly in BASH and BASH scripts,
+    and have made use of several of these scripts to automate my personal
+    computers in the same way as my servers.
 
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
+:   **Python:** I have completed a few online courses in Python and have
+    made some limited use of it in my working life, mostly creating
+    small programs to query the Zendesk API to give a notification when
+    documents need updating. I also wrote a [bot for Mastodon](https://gitsune.site/Sporiff/tsukumogami)
+    in Python using the Mastodon REST API.
 
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
+:   Basic knowledge of **C**, **.NET**, **Guile**, **Node.js**
 
-[ref]: https://github.com/githubuser/superlongprojectname
+[ref]: https://github.com/Sporiff, https://gitsune.site/Sporiff
 
-Extra Section, Call it Whatever You Want
+Additional Skills
 ----------------------------------------
 
 * Human Languages:
 
      * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
+     * French
+     * Dutch
+     * Japanese
+     * Cantonese
 
-* Random tidbit
+* Awards
 
-* Other sort of impressive-sounding thing you did
+     * Pan-Asian Model UN 2014: Diplomacy Award for Best Delegation
+     * Prifysgol Aberystwyth 2012: Senior Scholarship
+     * Katharine Lady Berkeley's School 2012: Alex Wood Award for Film
+     * Katharine Lady Berkeley's School 2011: Robin Coles Award for Public Speaking
+     * British Airways 2010: Flag Award for Proficiency in French
+
+* Additional Achievements
+
+     * Acted as peer-reviewer for [Exclamat!ion](https://humanities.exeter.ac.uk/english/research/publications/exclamation)
+     * Undertook a month of charity work in Vietnam with [World Challenge](https://worldchallenge.com)
+     * Achieved Grade 8 ABRSM in violin, grade 6 piano, and grade 5 music theory
+     * Achieved first dan black belt in Shotokai Karate
 
 ----
 
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry
+> <ciaranainsworth@posteo.net> • +44 07543507494 • 24 years old\
+> address - 19 Stoke Valley Road, Exeter, United Kingdon
