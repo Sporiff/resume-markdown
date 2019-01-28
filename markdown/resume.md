@@ -17,7 +17,7 @@ Education
 2015-2016
 :   **MA, English Literature**; Exeter University
 
-    *Thesis title: ""The Way it Used to Be" Mono No Aware and the Tanuki in
+    *Thesis title: ""The Way it Used to Be": Mono No Aware and the Tanuki in
      Isao Takahata's Pom Poko"*
 
 2012-2015
@@ -134,7 +134,7 @@ Programming Languages
     documents need updating. I also wrote a [bot for Mastodon](https://gitsune.site/Sporiff/tsukumogami)
     in Python using the Mastodon REST API.
 
-:   Basic knowledge of **C**, **.NET**, **Guile**, **Java**
+:   Basic knowledge of **C**, **.NET**, **Guile Scheme**, **Java**
 
 [ref]: https://github.com/Sporiff, https://gitsune.site/Sporiff
 
@@ -159,7 +159,7 @@ Additional Skills
 
 * Additional Achievements
 
-     * Acted as peer-reviewer for [Exclamat!ion](https://humanities.exeter.ac.uk/english/research/publications/exclamation),
+     * Acted as peer-reviewer for [Exclamat!on](https://humanities.exeter.ac.uk/english/research/publications/exclamation),
        an academic journal from the University of Exeter
      * Undertook a month of charity work in Vietnam with [World Challenge](https://worldchallenge.com)
      * Achieved Grade 8 ABRSM in violin, grade 6 piano, and grade 5 music theory
