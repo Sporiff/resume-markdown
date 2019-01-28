@@ -1,0 +1,302 @@
+% Copyright 2013 Christophe-Marie Duquesne <chmd@chmd.fr>
+% Copyright 2014 Mark Szepieniec <http://github.com/mszep>
+% 
+% ConText style for making a resume with pandoc. Inspired by moderncv.
+% 
+% This CSS document is delivered to you under the CC BY-SA 3.0 License.
+% https://creativecommons.org/licenses/by-sa/3.0/deed.en_US
+
+\startmode[*mkii]
+  \enableregime[utf-8]  
+  \setupcolors[state=start]
+\stopmode
+
+\setupcolor[hex]
+\definecolor[titlegrey][h=757575]
+\definecolor[sectioncolor][h=397249]
+\definecolor[rulecolor][h=9cb770]
+
+% Enable hyperlinks
+\setupinteraction[state=start, color=sectioncolor]
+
+\setuppapersize [A4][A4]
+\setuplayout    [width=middle, height=middle,
+                 backspace=20mm, cutspace=0mm,
+                 topspace=10mm, bottomspace=20mm,
+                 header=0mm, footer=0mm]
+
+%\setuppagenumbering[location={footer,center}]
+
+\setupbodyfont[11pt, helvetica]
+
+\setupwhitespace[medium]
+
+\setupblackrules[width=31mm, color=rulecolor]
+
+\setuphead[chapter]      [style=\tfd]
+\setuphead[section]      [style=\tfd\bf, color=titlegrey, align=middle]
+\setuphead[subsection]   [style=\tfb\bf, color=sectioncolor, align=right,
+                          before={\leavevmode\blackrule\hspace}]
+\setuphead[subsubsection][style=\bf]
+
+\setuphead[chapter, section, subsection, subsubsection][number=no]
+
+%\setupdescriptions[width=10mm]
+
+\definedescription
+  [description]
+  [headstyle=bold, style=normal,
+   location=hanging, width=18mm, distance=14mm, margin=0cm]
+
+\setupitemize[autointro, packed]    % prevent orphan list intro
+\setupitemize[indentnext=no]
+
+\setupfloat[figure][default={here,nonumber}]
+\setupfloat[table][default={here,nonumber}]
+
+\setuptables[textwidth=max, HL=none]
+\setupxtable[frame=off,option={stretch,width}]
+
+\setupthinrules[width=15em] % width of horizontal rules
+
+\setupdelimitedtext
+  [blockquote]
+  [before={\setupalign[middle]},
+   indentnext=no,
+  ]
+
+
+\starttext
+
+\section[title={Ciarán Ainsworth},reference={ciarán-ainsworth}]
+
+\thinrule
+
+\startblockquote
+I'm a passionate technologist with a penchant for writing clear,
+user-friendly technical documentation. I'm always on the lookout for
+opportunities to try new things, and spend as much time as I have
+available attending software conferences around Europe.
+\stopblockquote
+
+\thinrule
+
+\subsection[title={Education},reference={education}]
+
+\startdescription{2015-2016}
+  {\bf MA, English Literature}; Exeter University
+
+  {\em Thesis title: "\quotation{The Way it Used to Be} Mono No Aware
+  and the Tanuki in Isao Takahata's Pom Poko"}
+\stopdescription
+
+\startdescription{2012-2015}
+  {\bf BA, Film and Television Studies}; Prifysgol Aberystywth
+
+  {\em Dissertation title: "\quotation{It's Not of This World}: An
+  Analysis of How the Onryō Inflitrated the Western Horror Market"}
+\stopdescription
+
+\startdescription{2014-2014}
+  {\bf Semester Abroad}; Hong Kong Baptist University
+
+  {\em Minored in Computer Science (C), Japanese, and Cantonese}
+\stopdescription
+
+\subsection[title={Work Experience},reference={work-experience}]
+
+{\bf Technical Support Analyst: Oneserve}
+
+\startitemize
+\item
+  Responsible for manipulation of live SQL data, including
+  non-self-service uploads, data correction, and problem solving
+\item
+  Responsible for responding to support tickets
+\item
+  Responsible for identifying bugs, communicating bugs to customers,
+  arranging upgrades
+\item
+  Undertaking a major rewrite of the product's 700 page documentation
+  store
+\item
+  Actively engaged in identifying new tooling for all areas of the
+  company's working, including communication, documentation, and project
+  management
+\stopitemize
+
+{\bf Applications Manager: Exeter College}
+
+\startitemize
+\item
+  Responsible for testing/packaging applications and managing OS
+  deployments through SCCM and Microsoft Intune
+\item
+  Solely responsible for the management and running of all GNU/Linux
+  products, including the design of the college's SUSE architecture
+\item
+  Responsible for planning and overseeing migration of Windows 7 system
+  to Windows 10
+\item
+  Respondible for the creation and curation of a self-service app store
+  for teachers and non-teaching staff
+\item
+  Responsible for vulnerability monitoring in Nessus as well as
+  responsive and pre-emptive patch management
+\item
+  Responsible for Sophos Antivirus deployment and threat analysis
+\item
+  Actively involved in the development of the college's JIRA platform
+\item
+  Responsible for all process documentation
+\stopitemize
+
+{\bf Helpdesk Technician: Exeter College}
+
+\startitemize
+\item
+  Responsible for undertaking hardware repairs on a range of Lenovo
+  devices
+\item
+  Responsible for responding to support tickets and answering phone
+  calls, as well as interfacing directly with customers
+\item
+  Responsible for process documentation
+\item
+  Responsible for responsive repair and setup of AV equipment and SMART
+  boards
+\stopitemize
+
+\subsection[title={Technical
+Experience},reference={technical-experience}]
+
+\startdescription{Side Projects}
+  My passion for technology has led me to undertake a few projects
+  outside of work to give myself
+
+  \startitemize[packed]
+  \item
+    I host my own \useURL[url1][https://bakusocial.com][][Mastodon
+    instance]\from[url1] on DigitalOcean using Docker and Nginx, with
+    Amazon S3 as a media store
+  \item
+    I also host a \useURL[url2][https://tanukitunes.com][][Funkwhale
+    server]\from[url2] on a similar setup
+  \item
+    My \useURL[url3][https://rootkey.co.uk][][website]\from[url3] is
+    built using Hugo and CI tools at
+    \useURL[url4][https://netlify.com][][Netlify]\from[url4], and is
+    hosted publically on
+    \useURL[url5][https://github.com/Sporiff/Rootkey-Website][][GitHub]\from[url5]
+  \stopitemize
+\stopdescription
+
+\startdescription{Open Source}
+  As a big supporter of Free and Open Source software, I try to help out
+  with OSS projects wherever I can.
+
+  \startitemize[packed]
+  \item
+    I contribute translations to Japanese, English, and Dutch for a few
+    projects on
+    \useURL[url6][https://github.com/Sporiff][][GitHub]\from[url6]
+  \item
+    I am the primary en-gb localiser for the
+    \useURL[url7][https://elementary.io][][elementaryOS]\from[url7]
+    project
+  \stopitemize
+\stopdescription
+
+\startdescription{Programming Languages}
+  {\bf Microsoft SQL:} In my current job, I do a lot of work in SQL. As
+  the majority of our customers' data is stored in SQL databases, it is
+  often necessary for me to upload data to live systems, go searching
+  for issues across the schema, and correct these in a timely manner. I
+  have also been active in creating stored procedures for use in our
+  application
+
+  {\bf PowerShell:} During my time as an SCCM administrator, I made use
+  of PowerShell on a daily basis to automate complex tasks and find
+  creative solutions to problems posed by our early adoption of Windows
+  10 and Microsoft InTune. I wrote a script to automate the process of
+  \useURL[url8][https://github.com/Sporiff/Sophos-Install][][deploying
+  Sophos AV]\from[url8], which I uploaded to GitHub for other
+  administrators to make use of.
+
+  {\bf BASH:} I make heavy use of BASH in both my professional and
+  personal life. As a server administrator I operate mostly in BASH and
+  BASH scripts, and have made use of several of these scripts to
+  automate my personal computers in the same way as my servers.
+
+  {\bf Python:} I have completed a few online courses in Python and have
+  made some limited use of it in my working life, mostly creating small
+  programs to query the Zendesk API to give a notification when
+  documents need updating. I also wrote a
+  \useURL[url9][https://gitsune.site/Sporiff/tsukumogami][][bot for
+  Mastodon]\from[url9] in Python using the Mastodon REST API.
+
+  Basic knowledge of {\bf C}, {\bf .NET}, {\bf Guile}, {\bf Java}
+\stopdescription
+
+\subsection[title={Additional Skills},reference={additional-skills}]
+
+\startitemize
+\item
+  Human Languages:
+
+  \startitemize[packed]
+  \item
+    English (native speaker)
+  \item
+    French
+  \item
+    Dutch
+  \item
+    Japanese
+  \item
+    Cantonese
+  \stopitemize
+\item
+  Awards
+
+  \startitemize[packed]
+  \item
+    Pan-Asian Model UN 2014: Diplomacy Award for Best Delegation
+  \item
+    Prifysgol Aberystwyth 2012: Senior Scholarship
+  \item
+    Katharine Lady Berkeley's School 2012: Alex Wood Award for Film
+  \item
+    Katharine Lady Berkeley's School 2011: Robin Coles Award for Public
+    Speaking
+  \item
+    British Airways 2010: Flag Award for Proficiency in French
+  \stopitemize
+\item
+  Additional Achievements
+
+  \startitemize[packed]
+  \item
+    Acted as peer-reviewer for
+    \useURL[url10][https://humanities.exeter.ac.uk/english/research/publications/exclamation][][Exclamat!ion]\from[url10]
+  \item
+    Undertook a month of charity work in Vietnam with
+    \useURL[url11][https://worldchallenge.com][][World
+    Challenge]\from[url11]
+  \item
+    Achieved Grade 8 ABRSM in violin, grade 6 piano, and grade 5 music
+    theory
+  \item
+    Achieved first dan black belt in Shotokai Karate
+  \stopitemize
+\stopitemize
+
+\thinrule
+
+\startblockquote
+\useURL[url12][mailto:ciaranainsworth@posteo.net][][ciaranainsworth@posteo.net]\from[url12]
+• +44 07543507494 • 24 years old\crlf
+address - 19 Stoke Valley Road, Exeter, United Kingdon
+\stopblockquote
+
+\stoptext
