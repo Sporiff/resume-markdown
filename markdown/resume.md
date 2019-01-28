@@ -34,12 +34,10 @@ Education
 Work Experience
 ----------
 
-**Technical Support Analyst: Oneserve**
+**Technical Support Analyst: Oneserve 2018 - Present**
 
 * Responsible for manipulation of live SQL data, including non-self-service
   uploads, data correction, and problem solving
-
-* Responsible for responding to support tickets
 
 * Responsible for identifying bugs, communicating bugs to customers,
   arranging upgrades
@@ -50,7 +48,7 @@ Work Experience
 * Actively engaged in identifying new tooling for all areas of the company's
   working, including communication, documentation, and project management
 
-**Applications Manager: Exeter College**
+**Applications Manager: Exeter College 2017 - 2018**
 
 * Responsible for testing/packaging applications and managing OS
   deployments through SCCM and Microsoft Intune
@@ -71,27 +69,24 @@ Work Experience
 
 * Actively involved in the development of the college's JIRA platform
 
-* Responsible for all process documentation
-
-**Helpdesk Technician: Exeter College**
+**Helpdesk Technician: Exeter College 2016 - 2017**
 
 * Responsible for undertaking hardware repairs on a range of Lenovo
-  devices
+  devices and audio visual equipment including interactive whiteboards
 
 * Responsible for responding to support tickets and answering phone
   calls, as well as interfacing directly with customers
 
 * Responsible for process documentation
 
-* Responsible for responsive repair and setup of AV equipment and
-  SMART boards
+* Responsible for setup of AV and recording equipment
 
 Technical Experience
 --------------------
 
 Side Projects
-:   My passion for technology has led me to undertake a few projects
-    outside of work to give myself 
+:   My passion for technology has led me to undertake many projects independently
+    in order to keep learning and evolving as new technologies present themselves.
 
     * I host my own [Mastodon instance](https://bakusocial.com) on
       DigitalOcean using Docker and Nginx, with Amazon S3 as a media
@@ -110,14 +105,16 @@ Open Source
       a few projects on [GitHub](https://github.com/Sporiff)
     * I am the primary en-gb localiser for the [elementaryOS](https://elementary.io)
       project
+    * I am active in troubleshooting channels for [GNU Guix](https://gnu.org/software/guix)
+      and [Funkwhale](https://funkwhale.audio)
 
 Programming Languages
 :   **Microsoft SQL:** In my current job, I do a lot of work in SQL.
-    As the majority of our customers' data is stored in SQL databases,
-    it is often necessary for me to upload data to live systems, go
-    searching for issues across the schema, and correct these in a
-    timely manner. I have also been active in creating stored procedures
-    for use in our application
+    This work ranges from data uploads to mass alterations of existing data.
+    Many investigations require deconstructing scripts and stored procedures
+    to assess their outcomes, as well as finding issues across the schema
+    and correcting these in a timely manner. I have also been active in creating
+    stored procedures for use in our application.
 
 :   **PowerShell:** During my time as an SCCM administrator, I made use
     of PowerShell on a daily basis to automate complex tasks and find
@@ -131,13 +128,13 @@ Programming Languages
     and have made use of several of these scripts to automate my personal
     computers in the same way as my servers.
 
-:   **Python:** I have completed a few online courses in Python and have
-    made some limited use of it in my working life, mostly creating
-    small programs to query the Zendesk API to give a notification when
+:   **Python:** I have studied Python in my free time using tools such as
+    [codecademy](https://codecademy.com) and have made good use of it in my working life, 
+    creating small programs to query the Zendesk API to give a notification when
     documents need updating. I also wrote a [bot for Mastodon](https://gitsune.site/Sporiff/tsukumogami)
     in Python using the Mastodon REST API.
 
-:   Basic knowledge of **C**, **.NET**, **Guile**, **Node.js**
+:   Basic knowledge of **C**, **.NET**, **Guile**, **Java**
 
 [ref]: https://github.com/Sporiff, https://gitsune.site/Sporiff
 
@@ -162,7 +159,8 @@ Additional Skills
 
 * Additional Achievements
 
-     * Acted as peer-reviewer for [Exclamat!ion](https://humanities.exeter.ac.uk/english/research/publications/exclamation)
+     * Acted as peer-reviewer for [Exclamat!ion](https://humanities.exeter.ac.uk/english/research/publications/exclamation),
+       an academic journal from the University of Exeter
      * Undertook a month of charity work in Vietnam with [World Challenge](https://worldchallenge.com)
      * Achieved Grade 8 ABRSM in violin, grade 6 piano, and grade 5 music theory
      * Achieved first dan black belt in Shotokai Karate
