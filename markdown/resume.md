@@ -3,7 +3,7 @@ Ciarán Ainsworth
 
 ----
 
->  I'm a passionate technologist with a penchant
+>  I'm a passionate technologist with a knack
 >  for writing clear, user-friendly technical documentation.
 >  I'm always on the lookout for opportunities to try new
 >  things, and spend as much time as I have available
@@ -36,10 +36,12 @@ Work Experience
 
 **Technical Support Analyst: Oneserve 2018 - Present**
 
-* Responsible for manipulation of live SQL data, including non-self-service
+Key Responsibilities:
+
+* Manipulation of live SQL data, including non-self-service
   uploads, data correction, and problem solving
 
-* Responsible for identifying bugs, communicating bugs to customers,
+* Identifying bugs, communicating bugs to customers,
   arranging upgrades
 
 * Undertaking a major rewrite of the product's 700 page documentation
@@ -50,43 +52,49 @@ Work Experience
 
 **Applications Manager: Exeter College 2017 - 2018**
 
-* Responsible for testing/packaging applications and managing OS
+Key Responsibilities:
+
+* Testing/packaging applications and managing OS
   deployments through SCCM and Microsoft Intune
 
-* Solely responsible for the management and running of all GNU/Linux
+* Management and running of all GNU/Linux
   products, including the design of the college's SUSE architecture
 
-* Responsible for planning and overseeing migration of Windows 7
+* Planning and overseeing migration of Windows 7
   system to Windows 10
 
-* Respondible for the creation and curation of a self-service app
+* Creation and curation of a self-service app
   store for teachers and non-teaching staff
 
-* Responsible for vulnerability monitoring in Nessus as well as
+* Vulnerability monitoring in Nessus as well as
   responsive and pre-emptive patch management
 
-* Responsible for Sophos Antivirus deployment and threat analysis
+* Sophos Antivirus deployment and threat analysis
 
 * Actively involved in the development of the college's JIRA platform
 
+* Process documentation
+
 **Helpdesk Technician: Exeter College 2016 - 2017**
 
-* Responsible for undertaking hardware repairs on a range of Lenovo
+Key Responsibilities
+
+* Undertaking hardware repairs on a range of Lenovo
   devices and audio visual equipment including interactive whiteboards
 
-* Responsible for responding to support tickets and answering phone
+* Responding to support tickets and answering phone
   calls, as well as interfacing directly with customers
 
-* Responsible for process documentation
+* Process documentation
 
-* Responsible for setup of AV and recording equipment
+* Setup of AV and recording equipment
 
 Technical Experience
 --------------------
 
 Side Projects
 :   My passion for technology has led me to undertake many projects independently
-    in order to keep learning and evolving as new technologies present themselves.
+    in order to keep learning and evolving as new technologies emerge.
 
     * I host my own [Mastodon instance](https://bakusocial.com) on
       DigitalOcean using Docker and Nginx, with Amazon S3 as a media
@@ -96,20 +104,22 @@ Side Projects
     * My [website](https://rootkey.co.uk) is built using Hugo and CI
       tools at [Netlify](https://netlify.com), and is hosted publically
       on [GitHub](https://github.com/Sporiff/Rootkey-Website)
+    * I make use of open source tools to recover data for people who have
+      experienced data loss or corruption
 
 Open Source
 :   As a big supporter of Free and Open Source software, I try to help
     out with OSS projects wherever I can.
 
     * I contribute translations to Japanese, English, and Dutch for
-      a few projects on [GitHub](https://github.com/Sporiff)
+      various projects on [GitHub](https://github.com/Sporiff)
     * I am the primary en-gb localiser for the [elementaryOS](https://elementary.io)
       project
     * I am active in troubleshooting channels for [GNU Guix](https://gnu.org/software/guix)
       and [Funkwhale](https://funkwhale.audio)
 
 Programming Languages
-:   **Microsoft SQL:** In my current job, I do a lot of work in SQL.
+:   **Microsoft SQL:** In my current role, I do a lot of work in SQL.
     This work ranges from data uploads to mass alterations of existing data.
     Many investigations require deconstructing scripts and stored procedures
     to assess their outcomes, as well as finding issues across the schema
@@ -168,4 +178,4 @@ Additional Skills
 ----
 
 > <ciaranainsworth@posteo.net> • +44 07543507494 • 24 years old\
-> address - 19 Stoke Valley Road, Exeter, United Kingdon
+> Address - 19 Stoke Valley Road, Exeter, United Kingdon
