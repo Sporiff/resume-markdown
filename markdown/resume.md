@@ -134,7 +134,7 @@ Programming Languages
     documents need updating. I also wrote a [bot for Mastodon](https://gitsune.site/Sporiff/tsukumogami)
     in Python using the Mastodon REST API.
 
-:   Basic knowledge of **C**, **.NET**, **Guile Scheme**, **Java**
+:   Basic knowledge of **C**, **.NET**, **Guile Scheme**, **Java**, **HTML**, **CSS**
 
 [ref]: https://github.com/Sporiff, https://gitsune.site/Sporiff
 
