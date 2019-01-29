@@ -6,7 +6,7 @@ Ciarán Ainsworth
 >  I'm a passionate technologist with a knack
 >  for writing clear, user-friendly technical documentation.
 >  I'm always on the lookout for opportunities to try new
->  things, and spend as much time as I have available
+>  things, and I spend as much time as I have available
 >  attending software conferences around Europe.
 
 ----
@@ -15,7 +15,7 @@ Education
 ---------
 
 2015-2016
-:   **MA, English Literature**; Exeter University
+:   **MA, English Literature**; The University of Exeter
 
     *Thesis title: ""The Way it Used to Be": Mono No Aware and the Tanuki in
      Isao Takahata's Pom Poko"*
@@ -41,7 +41,7 @@ Key Responsibilities:
 * Manipulation of live SQL data, including non-self-service
   uploads, data correction, and problem solving
 
-* Identifying bugs, communicating bugs to customers,
+* Identifying bugs, communicating fixes to customers,
   arranging upgrades
 
 * Undertaking a major rewrite of the product's 700 page documentation
@@ -61,7 +61,7 @@ Key Responsibilities:
   products, including the design of the college's SUSE architecture
 
 * Planning and overseeing migration of Windows 7
-  system to Windows 10
+  systems to Windows 10
 
 * Creation and curation of a self-service app
   store for teachers and non-teaching staff
@@ -73,19 +73,15 @@ Key Responsibilities:
 
 * Actively involved in the development of the college's JIRA platform
 
-* Process documentation
-
 **Helpdesk Technician: Exeter College 2016 - 2017**
 
 Key Responsibilities
 
-* Undertaking hardware repairs on a range of Lenovo
+* Undertaking hardware repairs on a range of Lenovo and Apple
   devices and audio visual equipment including interactive whiteboards
 
-* Responding to support tickets and answering phone
+* Responding to high volume support tickets and answering phone
   calls, as well as interfacing directly with customers
-
-* Process documentation
 
 * Setup of AV and recording equipment
 
@@ -100,7 +96,7 @@ Side Projects
       DigitalOcean using Docker and Nginx, with Amazon S3 as a media
       store
     * I also host a [Funkwhale server](https://tanukitunes.com) on
-      a similar setup
+      a similar setup to the above
     * My [website](https://rootkey.co.uk) is built using Hugo and CI
       tools at [Netlify](https://netlify.com), and is hosted publically
       on [GitHub](https://github.com/Sporiff/Rootkey-Website)
@@ -109,7 +105,7 @@ Side Projects
 
 Open Source
 :   As a big supporter of Free and Open Source software, I try to help
-    out with OSS projects wherever I can.
+    out with FOSS projects wherever I can.
 
     * I contribute translations to Japanese, English, and Dutch for
       various projects on [GitHub](https://github.com/Sporiff)
@@ -119,8 +115,8 @@ Open Source
       and [Funkwhale](https://funkwhale.audio)
 
 Programming Languages
-:   **Microsoft SQL:** In my current role, I do a lot of work in SQL.
-    This work ranges from data uploads to mass alterations of existing data.
+:   **Microsoft SQL:** In my current role I do a lot of work in SQL,
+    ranging from data uploads to mass alterations of existing data.
     Many investigations require deconstructing scripts and stored procedures
     to assess their outcomes, as well as finding issues across the schema
     and correcting these in a timely manner. I have also been active in creating
@@ -177,5 +173,5 @@ Additional Skills
 
 ----
 
-> <ciaranainsworth@posteo.net> • +44 07543507494 • 24 years old\
+> <ciaranainsworth@posteo.net> • +44 07543507494 • DoB 25/02/1994\
 > Address - 19 Stoke Valley Road, Exeter, United Kingdon
