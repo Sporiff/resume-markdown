@@ -38,14 +38,16 @@ Work Experience
 
 Key Responsibilities:
 
+* I have led two successful projects: the first to move all documentation over
+  to Git/Markdown in order to increase productivity and introduce maintainability/reproducability;
+  the second to rework our process of live data modification to a more developer-like
+  workflow
+
 * Manipulation of live SQL data, including non-self-service
   uploads, data correction, and problem solving
 
 * Identifying bugs, communicating fixes to customers,
   arranging upgrades
-
-* Undertaking a major rewrite of the product's 700 page documentation
-  store
 
 * Actively engaged in identifying new tooling for all areas of the company's
   working, including communication, documentation, and project management
@@ -107,12 +109,14 @@ Open Source
 :   As a big supporter of Free and Open Source software, I try to help
     out with FOSS projects wherever I can.
 
+    * I am a contributing developer, translator, and lead documentation writer for [Funkwhale](https://funkwhale.audio),
+      and led a project to completely rewrite and rework all documentation
     * I contribute translations to Japanese, English, and Dutch for
       various projects on [GitHub](https://github.com/Sporiff)
     * I am the primary en-gb localiser for the [elementaryOS](https://elementary.io)
       project
     * I am active in troubleshooting channels for [GNU Guix](https://gnu.org/software/guix)
-      and [Funkwhale](https://funkwhale.audio)
+      and Funkwhale
 
 Programming Languages
 :   **Microsoft SQL:** In my current role I do a lot of work in SQL,
@@ -140,7 +144,7 @@ Programming Languages
     documents need updating. I also wrote a [bot for Mastodon](https://gitsune.site/Sporiff/tsukumogami)
     in Python using the Mastodon REST API.
 
-:   Basic knowledge of **C**, **.NET**, **Guile Scheme**, **Java**, **HTML**, **CSS**
+:   Basic knowledge of **C**, **.NET**, **Guile Scheme**, **Java**, **HTML**, **CSS**, **VueJS**
 
 [ref]: https://github.com/Sporiff, https://gitsune.site/Sporiff
 

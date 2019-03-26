@@ -4,7 +4,7 @@ utilitydata.comment={
  ["escape"]="[===[ ... ]===]",
  ["file"]="resume",
  ["format"]="cont-en",
- ["stamp"]="2018.04.04 00:51",
+ ["stamp"]="2017.05.15 21:48",
  ["version"]=1.3,
 }
 
@@ -28,7 +28,7 @@ if not utilitydata.job.structure then utilitydata.job.structure = { } end
 
 utilitydata.job.structure.collected={
  ["branches"]={},
- ["name"]="",
+ ["name"]="resume",
  ["type"]="text",
 }
 
@@ -55,7 +55,7 @@ utilitydata.job.passes.collected={
   { 4, 0 },
  },
  ["itemgroup:itemize:5"]={
-  { 3, 0 },
+  { 4, 0 },
  },
  ["itemgroup:itemize:6"]={
   { 3, 0 },
@@ -110,7 +110,7 @@ utilitydata.structures.counters.collected={
   { 0 },
  },
  ["itemgroup:itemize"]={
-  { 0, 4, 7, 3, 4, 3, 3 },
+  { 0, 4, 7, 3, 4, 4, 3 },
   { 0, 5, 0, 5, 0, 4 },
  },
  ["linenote"]={
@@ -324,7 +324,7 @@ if not utilitydata.structures.references then utilitydata.structures.references 
 
 utilitydata.structures.references.referred={
  { 2, 1 },
- { 3, 12 },
+ { 3, 11 },
 }
 
 if not utilitydata.job then utilitydata.job = { } end
@@ -366,12 +366,6 @@ if not utilitydata.job then utilitydata.job = { } end
 if not utilitydata.job.fileobjreferences then utilitydata.job.fileobjreferences = { } end
 
 utilitydata.job.fileobjreferences.collected={
-}
-
-if not utilitydata.job then utilitydata.job = { } end
-if not utilitydata.job.embedded then utilitydata.job.embedded = { } end
-
-utilitydata.job.embedded.collected={
 }
 
 utilitydata.job.packed={
