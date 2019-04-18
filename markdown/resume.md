@@ -109,7 +109,7 @@ Open Source
 :   As a big supporter of Free and Open Source software, I try to help
     out with FOSS projects wherever I can.
 
-    * I am a contributing developer, translator, and lead documentation writer for [Funkwhale](https://funkwhale.audio),
+    * I am a contributing developer, translator, steering committee member, and lead documentation writer for [Funkwhale](https://funkwhale.audio),
       and led a project to completely rewrite and rework all documentation
     * I contribute translations to Japanese, English, and Dutch for
       various projects on [GitHub](https://github.com/Sporiff)
