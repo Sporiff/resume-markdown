@@ -99,9 +99,9 @@ Side Projects
       store
     * I also host a [Funkwhale server](https://tanukitunes.com) on
       a similar setup to the above
-    * My [website](https://rootkey.co.uk) is built using Hugo and CI
+    * My [website](https://rootkey.co.uk) is built using Sphinx and CI
       tools at [Netlify](https://netlify.com), and is hosted publically
-      on [GitHub](https://github.com/Sporiff/Rootkey-Website)
+      on [GitLab](https://gitlab.com/Sporiff/Rootkey-Website)
     * I make use of open source tools to recover data for people who have
       experienced data loss or corruption
 
@@ -130,7 +130,7 @@ Programming Languages
     of PowerShell on a daily basis to automate complex tasks and find
     creative solutions to problems posed by our early adoption of Windows
     10 and Microsoft InTune. I wrote a script to automate the process of
-    [deploying Sophos AV](https://github.com/Sporiff/Sophos-Install),
+    [deploying Sophos AV](https://gitlab.com/Sporiff/Sophos-Install),
     which I uploaded to GitHub for other administrators to make use of.
     
 :   **BASH:** I make heavy use of BASH in both my professional and personal
@@ -141,12 +141,12 @@ Programming Languages
 :   **Python:** I have studied Python in my free time using tools such as
     [codecademy](https://codecademy.com) and have made good use of it in my working life, 
     creating small programs to query the Zendesk API to give a notification when
-    documents need updating. I also wrote a [bot for Mastodon](https://gitsune.site/Sporiff/tsukumogami)
+    documents need updating. I also wrote a [bot for Mastodon](https://gitlab.com/Sporiff/tsukumogami)
     in Python using the Mastodon REST API.
 
 :   Basic knowledge of **C**, **.NET**, **Guile Scheme**, **Java**, **HTML**, **CSS**, **VueJS**
 
-[ref]: https://github.com/Sporiff, https://gitsune.site/Sporiff
+[ref]: https://gitlab.com/Sporiff
 
 Additional Skills
 ----------------------------------------
