@@ -34,6 +34,18 @@ Education
 Work Experience
 ----------
 
+**Project Maintainer and Steering Committee Member: Funkwhale Association 2019 - Present**
+
+Key Responsibilities:
+
+* Help with planning development roadmaps and managing the community
+
+* Participate in testing of new releases and provide detailed feedback
+
+* Contribute bugfixes and new features to the application based on community feedback
+
+* Offer support in the project’s forums and chatrooms
+
 **Technical Support Analyst: Oneserve 2018 - Present**
 
 Key Responsibilities:
@@ -109,8 +121,10 @@ Open Source
 :   As a big supporter of Free and Open Source software, I try to help
     out with FOSS projects wherever I can.
 
-    * I am a contributing developer, translator, steering committee member, and lead documentation writer for [Funkwhale](https://funkwhale.audio),
-      and led a project to completely rewrite and rework all documentation
+    * I am a project maintainer, contributing developer, translator, steering
+      committee member, and lead documentation writer for [Funkwhale](https://funkwhale.audio).
+      In this capacity I have contributed new features and bugfixes, and have also
+      led a project to completely overhaul user documentation.
     * I contribute translations to Japanese, English, and Dutch for
       various projects on [GitHub](https://github.com/Sporiff)
     * I am the primary en-gb localiser for the [elementaryOS](https://elementary.io)
@@ -132,19 +146,26 @@ Programming Languages
     10 and Microsoft InTune. I wrote a script to automate the process of
     [deploying Sophos AV](https://gitlab.com/Sporiff/Sophos-Install),
     which I uploaded to GitHub for other administrators to make use of.
-    
+
 :   **BASH:** I make heavy use of BASH in both my professional and personal
     life. As a server administrator I operate mostly in BASH and BASH scripts,
     and have made use of several of these scripts to automate my personal
     computers in the same way as my servers.
 
 :   **Python:** I have studied Python in my free time using tools such as
-    [codecademy](https://codecademy.com) and have made good use of it in my working life, 
+    [codecademy](https://codecademy.com) and have made good use of it in my working life,
     creating small programs to query the Zendesk API to give a notification when
     documents need updating. I also wrote a [bot for Mastodon](https://gitlab.com/Sporiff/tsukumogami)
     in Python using the Mastodon REST API.
 
-:   Basic knowledge of **C**, **.NET**, **Guile Scheme**, **Java**, **HTML**, **CSS**, **VueJS**
+:   **Vue.JS:** Most of my contributions to Funkwhale are frontend fixes
+    written in Vue.JS and vanilla JS.
+
+:   **CSS/HTML:** I have created websites and worked with HTML/CSS to
+    create new features for Funkwhale and also to rewrite my company’s
+    Zendesk help centre.
+
+:   Basic knowledge of **C**, **.NET**, **Guile Scheme**, **Java**
 
 [ref]: https://gitlab.com/Sporiff
 
