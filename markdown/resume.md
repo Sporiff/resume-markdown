@@ -38,13 +38,13 @@ Work Experience
 
 Key Responsibilities:
 
-* Help with planning development roadmaps and managing the community
+* Helping with planning development roadmaps and managing the community
 
-* Participate in testing of new releases and provide detailed feedback
+* Participating in testing of new releases and provide detailed feedback
 
-* Contribute bugfixes and new features to the application based on community feedback
+* Contributing bugfixes and new features to the application based on community feedback
 
-* Offer support in the project’s forums and chatrooms
+* Offering support in the project’s forums and chatrooms
 
 **Technical Support Analyst: Oneserve 2018 - Present**
 
@@ -61,7 +61,7 @@ Key Responsibilities:
 * Identifying bugs, communicating fixes to customers,
   arranging upgrades
 
-* Actively engaged in identifying new tooling for all areas of the company's
+* Actively engaging in identifying new tooling for all areas of the company's
   working, including communication, documentation, and project management
 
 **Applications Manager: Exeter College 2017 - 2018**
@@ -111,9 +111,10 @@ Side Projects
       store
     * I also host a [Funkwhale server](https://tanukitunes.com) on
       a similar setup to the above
-    * My [website](https://rootkey.co.uk) is built using Sphinx and CI
-      tools at [Netlify](https://netlify.com), and is hosted publically
-      on [GitLab](https://gitlab.com/Sporiff/Rootkey-Website)
+    * I manage a [gitea server](https://gitsune.site) to host coding
+      projects for developers
+    * My [website](https://rootkey.co.uk) is built using Coleslaw (a
+      common lisp static site generator) and version controlled using git
     * I make use of open source tools to recover data for people who have
       experienced data loss or corruption
 
@@ -165,9 +166,10 @@ Programming Languages
     create new features for Funkwhale and also to rewrite my company’s
     Zendesk help centre.
 
-:   Basic knowledge of **C**, **.NET**, **Guile Scheme**, **Java**
+:   **jQuery:** I make use of jQuery in both my professional and personal life, 
+    using it for features in Funkwhale as well as for additional features in Zendesk
 
-[ref]: https://gitlab.com/Sporiff
+:   Basic knowledge of **C**, **.NET**, **Guile Scheme**, **Java**, **Rust**, **Common Lisp**
 
 Additional Skills
 ----------------------------------------
