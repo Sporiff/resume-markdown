@@ -46,7 +46,19 @@ Key Responsibilities:
 
 * Offering support in the project’s forums and chatrooms
 
-**Technical Support Analyst: Oneserve 2018 - Present**
+**Technical Accounts Manager: Oneserve 2020 - Present**
+
+Key Responsibilities:
+
+* Managing relations with clients
+
+* Advising clients on how to best use our software to resolve challenges they are facing
+
+* Liaising directly with clients to ascertain their requirements and advise the product team accordingly, helping to record issues and advise next steps
+
+* Contributing to the company's documentation to allow clients to self-serve
+
+**Technical Support Analyst: Oneserve 2018 - 2020**
 
 Key Responsibilities:
 
@@ -166,7 +178,7 @@ Programming Languages
     create new features for Funkwhale and also to rewrite my company’s
     Zendesk help centre.
 
-:   **jQuery:** I make use of jQuery in both my professional and personal life, 
+:   **jQuery:** I make use of jQuery in both my professional and personal life,
     using it for features in Funkwhale as well as for additional features in Zendesk
 
 :   Basic knowledge of **C**, **.NET**, **Guile Scheme**, **Java**, **Rust**, **Common Lisp**
