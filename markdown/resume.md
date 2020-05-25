@@ -178,26 +178,30 @@ Additional Skills
 
 **Human Languages**:
 
-* English (native speaker)
-* French
-* Dutch
-* Japanese
-* Cantonese
+:   - English (native speaker)
+:   - French
+:   - Dutch
+:   - Japanese
+:   - Cantonese
+
+---
 
 **Awards**
 
-* Pan-Asian Model UN 2014: Diplomacy Award for Best Delegation
-* Prifysgol Aberystwyth 2012: Senior Scholarship
-* Katharine Lady Berkeley's School 2012: Alex Wood Award for Film
-* Katharine Lady Berkeley's School 2011: Robin Coles Award for Public Speaking
-* British Airways 2010: Flag Award for Proficiency in French
+:   - Pan-Asian Model UN 2014: Diplomacy Award for Best Delegation
+:   - Prifysgol Aberystwyth 2012: Senior Scholarship
+:   - Katharine Lady Berkeley's School 2012: Alex Wood Award for Film
+:   - Katharine Lady Berkeley's School 2011: Robin Coles Award for Public Speaking
+:   - British Airways 2010: Flag Award for Proficiency in French
+
+---
 
 **Additional Achievements**
 
-* Acted as peer-reviewer for [Exclamat!on](https://humanities.exeter.ac.uk/english/research/publications/exclamation), an academic journal from the University of Exeter
-* Undertook a month of charity work in Vietnam with [World Challenge](https://worldchallenge.com)
-* Achieved Grade 8 ABRSM in violin, grade 6 piano, and grade 5 music theory
-* Achieved first dan black belt in Shotokai Karate
+:   - Acted as peer-reviewer for [Exclamat!on](https://humanities.exeter.ac.uk/english/research/publications/exclamation), an academic journal from the University of Exeter
+:   - Undertook a month of charity work in Vietnam with [World Challenge](https://worldchallenge.com)
+:   - Achieved Grade 8 ABRSM in violin, grade 6 piano, and grade 5 music theory
+:   - Achieved first dan black belt in Shotokai Karate
 
 ----
 
