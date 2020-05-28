@@ -205,7 +205,7 @@ Additional Skills
 
 ----
 
-> <ciaranainsworth@posteo.net> • +44 07543507494 • DoB 25/02/1994\
+> <cda@rootkey.co.uk> • +44 07543507494 • DoB 25/02/1994\
 > Address - 19 Stoke Valley Road, Exeter, United Kingdon\
 > Website - <https://rootkey.co.uk>\
 > Code - <https://git.sr.ht/~sporiff>
