@@ -62,7 +62,7 @@ Work Experience
     Key Responsibilities:
 
     * I have led two successful projects: the first to move all documentation over
-      to Git/Markdown in order to increase productivity and introduce maintainability/reproducability;
+      to Git/Markdown in order to increase productivity and introduce maintainability/reproducibility;
       the second to rework our process of live data modification to a more developer-like
       workflow
     * Manipulation of live SQL data, including non-self-service
