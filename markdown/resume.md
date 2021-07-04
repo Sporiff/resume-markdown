@@ -45,7 +45,16 @@ Work Experience
     * Contributing bugfixes and new features to the application based on community feedback
     * Offering support in the project’s forums and chatrooms
 
-2020-present
+2021-present
+:   **Technical Writer: Adjust**
+
+    Key responsiblities:
+   
+    * Writing documentation for Adjust's open-source SDKs
+    * Providing expertise on API documentation
+    * Working with stakeholders to provide end-user documentation and help guides
+
+2020-2020
 :   **Technical Accounts Manager: Oneserve**
 
     Key Responsibilities:
